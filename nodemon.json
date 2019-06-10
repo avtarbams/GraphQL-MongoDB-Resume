@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "avtarbams",
+        "MONGO_PASSWORD": "jS9WOJeyc2IT9CcY",
+        "MONGO_DB": "resume_experience_db"
+    }
+}
